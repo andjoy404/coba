@@ -4,7 +4,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <<<<<<< HEAD
-        <title>Java EE 7 Docker Maven Sample 2</title>
+        <title>Java EE 7 Docker Maven Sample 3</title>
 =======
         <title>Java EE 7 Docker Maven Sample Three</title>
 >>>>>>> b6c90605d4dfa3a2a72e9997759557ec38b2453a
