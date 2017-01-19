@@ -3,7 +3,6 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-     HEAD
         <title>Java EE 7 Docker Maven Sample 4</title>
     </head>
     <body>
