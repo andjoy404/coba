@@ -6,7 +6,7 @@
         <title>Java EE 7 Docker Maven Sample</title>
     </head>
     <body>
-        <h1>Java EE 7 Docker Maven Sample 8</h1>
+        <h1>Java EE 7 Docker Maven Sample 9</h1>
         
         GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.
     </body>
